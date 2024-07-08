@@ -1,0 +1,11 @@
+{
+  "a4988408-d091-7000-50c3-a2de78d87f7e": "AmplifyAdmin",
+  "f468b4a8-8081-7052-5b17-ea0e2b5087eb": "AWSSecurityAuditors",
+  "0488b4b8-9041-700e-3314-cbbcf282c4d9": "AWSLogArchiveViewers",
+  "9458e448-b001-7092-b57c-869b29ecbc05": "AWSControlTowerAdmins",
+  "2428f4b8-6001-7011-73fb-99f40542134a": "AWSServiceCatalogAdmins",
+  "94b8f4d8-b0b1-70d5-a87d-60d496f07188": "AWSAccountFactory",
+  "c40884c8-5031-708f-a895-755c640bd185": "AWSLogArchiveAdmins",
+  "14b844e8-20b1-70ca-e44f-66e8f8238951": "AWSAuditAccountAdmins",
+  "f4a894e8-d021-705b-ddcf-02c37374bc5c": "AWSSecurityAuditPowerUsers"
+}

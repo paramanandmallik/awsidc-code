@@ -1,0 +1,250 @@
+{
+    "Users": [
+        {
+            "UserName": "paramanandmallik@yahoo.in",
+            "UserId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v5c0c24b3-8734-4bf1-ab7d-18289356fb7a",
+                    "Id": "00u19tb0epJC4ANcG5d7"
+                }
+            ],
+            "Name": {
+                "FamilyName": "okta_test",
+                "GivenName": "param"
+            },
+            "DisplayName": "param okta_test",
+            "Emails": [
+                {
+                    "Value": "paramanandmallik@yahoo.in",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "Locale": "en-US",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramanandmallik@gmail.com",
+            "UserId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v5c0c24b3-8734-4bf1-ab7d-18289356fb7a",
+                    "Id": "00u19sr1v5ySWGDX85d7"
+                }
+            ],
+            "Name": {
+                "FamilyName": "Mallik",
+                "GivenName": "Paramanand"
+            },
+            "DisplayName": "Paramanand Mallik",
+            "Emails": [
+                {
+                    "Value": "paramanandmallik@gmail.com",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "Locale": "en-US",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramanandmallik@hotmail.com",
+            "UserId": "f4e84498-c0f1-706a-b0f3-20c98d405005",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v9e9c26c0-08ec-4fca-b9e3-c72fc55ba108",
+                    "Id": "840d9f9b-67a4-4501-b0ce-6bbde7caa03a"
+                }
+            ],
+            "Name": {
+                "Formatted": "Paramanand Mallik",
+                "FamilyName": "Mallik",
+                "GivenName": "Paramanand"
+            },
+            "DisplayName": "Paramanand Mallik",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramdm+testnewacc@amazon.com",
+            "UserId": "44883458-0081-703b-ae93-be4829fe4c5a",
+            "Name": {
+                "FamilyName": "User",
+                "GivenName": "Admin"
+            },
+            "DisplayName": "Admin User",
+            "Emails": [
+                {
+                    "Value": "paramdm+testnewacc@amazon.com",
+                    "Primary": true
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "vappsparam@gmail.com",
+            "UserId": "b4783468-10c1-70bc-23d0-0638cf8ad914",
+            "Name": {
+                "FamilyName": "AppsUser",
+                "GivenName": "Param"
+            },
+            "DisplayName": "Param AppsUser",
+            "Emails": [
+                {
+                    "Value": "vappsparam@gmail.com"
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramaws@test.com",
+            "UserId": "b4f87468-40a1-70df-5b07-dea004fbffa6",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v5c0c24b3-8734-4bf1-ab7d-18289356fb7a",
+                    "Id": "00u747aspa0EeHOg35d7"
+                }
+            ],
+            "Name": {
+                "FamilyName": "aws",
+                "GivenName": "param"
+            },
+            "DisplayName": "param aws",
+            "Emails": [
+                {
+                    "Value": "paramaws@test.com",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "Locale": "en-US",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "matouk@amazon.com",
+            "UserId": "24f8f478-3041-70d6-1b10-96f53429345f",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v85b1c2d5-8462-4d69-947a-ad44bbcfdbde",
+                    "Id": "00uh4vtrynbKXOzg55d7"
+                }
+            ],
+            "Name": {
+                "FamilyName": "Matouk",
+                "GivenName": "Mahmoud"
+            },
+            "DisplayName": "Mahmoud Matouk",
+            "Emails": [
+                {
+                    "Value": "matouk@amazon.com",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "Locale": "en-US",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "forensicparam@gmail.com",
+            "UserId": "946894b8-c091-70ba-7953-1bde52b94192",
+            "Name": {
+                "FamilyName": "ForensicAccount",
+                "GivenName": "Param"
+            },
+            "DisplayName": "Param ForensicAccount",
+            "Emails": [
+                {
+                    "Value": "forensicparam@gmail.com"
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramdm+seclake@amazon.com",
+            "UserId": "641854f8-9081-703c-7d92-298e90c7d6fc",
+            "ExternalIds": [
+                {
+                    "Issuer": "https://scim.aws.com/f3v67134481-0e6e-4d29-aceb-d404c700b312",
+                    "Id": "00uhy62tiaoLWPLil5d7"
+                }
+            ],
+            "Name": {
+                "FamilyName": "user",
+                "GivenName": "seclake"
+            },
+            "DisplayName": "seclake user",
+            "Emails": [
+                {
+                    "Value": "paramdm+seclake@amazon.com",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "Locale": "en-US",
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "amplifyadmin",
+            "UserId": "24a874a8-6061-70dd-18fa-bd0c611dbb2d",
+            "Name": {
+                "FamilyName": "admin",
+                "GivenName": "amplify"
+            },
+            "DisplayName": "amplify admin",
+            "Emails": [
+                {
+                    "Value": "paramdm+amplify@amazon.com",
+                    "Type": "work",
+                    "Primary": true
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramdm+mgmt01@amazon.com",
+            "UserId": "94e81458-b001-70da-9ce2-973447eefae7",
+            "Name": {
+                "FamilyName": "user",
+                "GivenName": "mgmt01"
+            },
+            "DisplayName": "mgmt01 user",
+            "Emails": [
+                {
+                    "Value": "paramdm+mgmt01@amazon.com",
+                    "Primary": true
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "shubparam@gmail.com",
+            "UserId": "54e8c448-f041-70ec-09c4-3f678af9c08a",
+            "Name": {
+                "FamilyName": "SHubUser",
+                "GivenName": "Param"
+            },
+            "DisplayName": "Param SHubUser",
+            "Emails": [
+                {
+                    "Value": "shubparam@gmail.com"
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        },
+        {
+            "UserName": "paramdm@amazon.com",
+            "UserId": "54982478-c051-701f-4857-bfa4cff28640",
+            "Name": {
+                "FamilyName": "Admin",
+                "GivenName": "AWS Control Tower"
+            },
+            "DisplayName": "AWS Control Tower Admin",
+            "Emails": [
+                {
+                    "Value": "paramdm@amazon.com"
+                }
+            ],
+            "IdentityStoreId": "d-9067a2d51d"
+        }
+    ]
+}

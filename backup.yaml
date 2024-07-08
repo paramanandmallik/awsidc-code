@@ -1,0 +1,746 @@
+[
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+    "AccountId": "267762668325",
+    "Assignments": [
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "f4e84498-c0f1-706a-b0f3-20c98d405005",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+    "AccountId": "693088575159",
+    "Assignments": [
+      {
+        "AccountId": "693088575159",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+    "AccountId": "962265335633",
+    "Assignments": [
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-88e54505f0768454",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-88e54505f0768454",
+        "PrincipalId": "2428f4b8-6001-7011-73fb-99f40542134a",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-0df73a7c1aa97db2",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-0df73a7c1aa97db2",
+        "PrincipalId": "94b8f4d8-b0b1-70d5-a87d-60d496f07188",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "025651520535",
+    "Assignments": [
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "109576666270",
+    "Assignments": [
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "140184854818",
+    "Assignments": [
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "211125763900",
+    "Assignments": [
+      {
+        "AccountId": "211125763900",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "267762668325",
+    "Assignments": [
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "339712898296",
+    "Assignments": [
+      {
+        "AccountId": "339712898296",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "433803933728",
+    "Assignments": [
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+    "AccountId": "546106908048",
+    "Assignments": [
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "025651520535",
+    "Assignments": [
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "109576666270",
+    "Assignments": [
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "140184854818",
+    "Assignments": [
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "211125763900",
+    "Assignments": [
+      {
+        "AccountId": "211125763900",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "267762668325",
+    "Assignments": [
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "339712898296",
+    "Assignments": [
+      {
+        "AccountId": "339712898296",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "546106908048",
+    "Assignments": [
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+    "AccountId": "693088575159",
+    "Assignments": [
+      {
+        "AccountId": "693088575159",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+    "AccountId": "962265335633",
+    "Assignments": [
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "025651520535",
+    "Assignments": [
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54e8c448-f041-70ec-09c4-3f678af9c08a",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "109576666270",
+    "Assignments": [
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "946894b8-c091-70ba-7953-1bde52b94192",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "140184854818",
+    "Assignments": [
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "b4783468-10c1-70bc-23d0-0638cf8ad914",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "211125763900",
+    "Assignments": [
+      {
+        "AccountId": "211125763900",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "94e81458-b001-70da-9ce2-973447eefae7",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "267762668325",
+    "Assignments": [
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "14b844e8-20b1-70ca-e44f-66e8f8238951",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "339712898296",
+    "Assignments": [
+      {
+        "AccountId": "339712898296",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "641854f8-9081-703c-7d92-298e90c7d6fc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "433803933728",
+    "Assignments": [
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "c40884c8-5031-708f-a895-755c640bd185",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "546106908048",
+    "Assignments": [
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "44883458-0081-703b-ae93-be4829fe4c5a",
+        "PrincipalType": "USER"
+      },
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+    "AccountId": "693088575159",
+    "Assignments": [
+      {
+        "AccountId": "693088575159",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "025651520535",
+    "Assignments": [
+      {
+        "AccountId": "025651520535",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "109576666270",
+    "Assignments": [
+      {
+        "AccountId": "109576666270",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "140184854818",
+    "Assignments": [
+      {
+        "AccountId": "140184854818",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "211125763900",
+    "Assignments": [
+      {
+        "AccountId": "211125763900",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "267762668325",
+    "Assignments": [
+      {
+        "AccountId": "267762668325",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "339712898296",
+    "Assignments": [
+      {
+        "AccountId": "339712898296",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "433803933728",
+    "Assignments": [
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "0488b4b8-9041-700e-3314-cbbcf282c4d9",
+        "PrincipalType": "GROUP"
+      },
+      {
+        "AccountId": "433803933728",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "546106908048",
+    "Assignments": [
+      {
+        "AccountId": "546106908048",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "693088575159",
+    "Assignments": [
+      {
+        "AccountId": "693088575159",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "a4988408-d091-7000-50c3-a2de78d87f7e",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+    "AccountId": "962265335633",
+    "Assignments": [
+      {
+        "AccountId": "962265335633",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "a4988408-d091-7000-50c3-a2de78d87f7e",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  },
+  {
+    "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4a4f9eb2920d59ef",
+    "AccountId": "364170696417",
+    "Assignments": [
+      {
+        "AccountId": "364170696417",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4a4f9eb2920d59ef",
+        "PrincipalId": "a4988408-d091-7000-50c3-a2de78d87f7e",
+        "PrincipalType": "GROUP"
+      }
+    ]
+  }
+]

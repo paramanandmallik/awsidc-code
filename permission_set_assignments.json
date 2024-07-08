@@ -1,0 +1,808 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Resources": {
+    "Assignmentpsdd1e649efbfa9f48267762668325paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsdd1e649efbfa9f48364170696417paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsdd1e649efbfa9f48364170696417paramanandmallikyahooin": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-dd1e649efbfa9f48",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsebc64c80ed3ec37e364170696417paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsebc64c80ed3ec37e364170696417paramanandmallikhotmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "f4e84498-c0f1-706a-b0f3-20c98d405005",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsebc64c80ed3ec37e693088575159paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "693088575159",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsebc64c80ed3ec37e962265335633paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-ebc64c80ed3ec37e",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "962265335633",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps88e54505f0768454364170696417AWSServiceCatalogAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-88e54505f0768454",
+        "PrincipalId": "2428f4b8-6001-7011-73fb-99f40542134a",
+        "PrincipalType": "GROUP",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps0df73a7c1aa97db2364170696417AWSAccountFactory": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-0df73a7c1aa97db2",
+        "PrincipalId": "94b8f4d8-b0b1-70d5-a87d-60d496f07188",
+        "PrincipalType": "GROUP",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052025651520535AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052025651520535paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052109576666270AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052109576666270paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052140184854818paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052140184854818AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052211125763900AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "211125763900",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052267762668325AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052339712898296AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "339712898296",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052364170696417AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052433803933728AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052546106908048paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps1de9d74187089052546106908048AWSSecurityAuditPowerUsers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-1de9d74187089052",
+        "PrincipalId": "f4a894e8-d021-705b-ddcf-02c37374bc5c",
+        "PrincipalType": "GROUP",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2025651520535paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2025651520535AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2109576666270AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2109576666270paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2140184854818paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2140184854818AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2211125763900AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "211125763900",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2267762668325paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2339712898296AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "339712898296",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2364170696417paramanandmallikyahooin": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2364170696417paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2364170696417paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2546106908048AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2546106908048paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps22059c0a43a504e2693088575159paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-22059c0a43a504e2",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "693088575159",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsb326ca03de87e099364170696417paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsb326ca03de87e099962265335633paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "962265335633",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsb326ca03de87e099962265335633paramanandmallikyahooin": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "74c864e8-60c1-702d-fd70-9dab53377ac9",
+        "PrincipalType": "USER",
+        "TargetId": "962265335633",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsb326ca03de87e099962265335633AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "962265335633",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsb326ca03de87e099962265335633paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-b326ca03de87e099",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "962265335633",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f025651520535shubparamgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54e8c448-f041-70ec-09c4-3f678af9c08a",
+        "PrincipalType": "USER",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f025651520535paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f109576666270forensicparamgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "946894b8-c091-70ba-7953-1bde52b94192",
+        "PrincipalType": "USER",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f109576666270paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f140184854818paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f140184854818vappsparamgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "b4783468-10c1-70bc-23d0-0638cf8ad914",
+        "PrincipalType": "USER",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f211125763900paramdmmgmt01amazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "94e81458-b001-70da-9ce2-973447eefae7",
+        "PrincipalType": "USER",
+        "TargetId": "211125763900",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f267762668325AWSAuditAccountAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "14b844e8-20b1-70ca-e44f-66e8f8238951",
+        "PrincipalType": "GROUP",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f267762668325AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f267762668325paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f267762668325paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f339712898296paramdmseclakeamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "641854f8-9081-703c-7d92-298e90c7d6fc",
+        "PrincipalType": "USER",
+        "TargetId": "339712898296",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f364170696417AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f364170696417paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f433803933728AWSControlTowerAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "9458e448-b001-7092-b57c-869b29ecbc05",
+        "PrincipalType": "GROUP",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f433803933728AWSLogArchiveAdmins": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "c40884c8-5031-708f-a895-755c640bd185",
+        "PrincipalType": "GROUP",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f433803933728paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f546106908048paramdmtestnewaccamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "44883458-0081-703b-ae93-be4829fe4c5a",
+        "PrincipalType": "USER",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f546106908048paramdmamazoncom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54982478-c051-701f-4857-bfa4cff28640",
+        "PrincipalType": "USER",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentpsf80918fde3a2653f693088575159paramanandmallikgmailcom": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-f80918fde3a2653f",
+        "PrincipalId": "54f8e4e8-4071-708e-b017-5998be4029cc",
+        "PrincipalType": "USER",
+        "TargetId": "693088575159",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396025651520535AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "025651520535",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396109576666270AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "109576666270",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396140184854818AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "140184854818",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396211125763900AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "211125763900",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396267762668325AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "267762668325",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396339712898296AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "339712898296",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396364170696417AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "364170696417",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396433803933728AWSLogArchiveViewers": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "0488b4b8-9041-700e-3314-cbbcf282c4d9",
+        "PrincipalType": "GROUP",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396433803933728AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "433803933728",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396546106908048AWSSecurityAuditors": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "f468b4a8-8081-7052-5b17-ea0e2b5087eb",
+        "PrincipalType": "GROUP",
+        "TargetId": "546106908048",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    },
+    "Assignmentps4d20d671687bb396693088575159AmplifyAdmin": {
+      "Type": "AWS::SSO::Assignment",
+      "Properties": {
+        "InstanceArn": "arn:aws:sso:::instance/ssoins-7223c2272285c157",
+        "PermissionSetArn": "arn:aws:sso:::permissionSet/ssoins-7223c2272285c157/ps-4d20d671687bb396",
+        "PrincipalId": "a4988408-d091-7000-50c3-a2de78d87f7e",
+        "PrincipalType": "GROUP",
+        "TargetId": "693088575159",
+        "TargetType": "AWS_ACCOUNT"
+      }
+    }
+  }
+}
